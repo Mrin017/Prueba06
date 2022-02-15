@@ -1,3 +1,3 @@
-(1) linea 1 
-(2) linea A
-(3) linea 3
+(1) linea 1 (4)
+(2) linea A (5)
+(3) linea 3 (6)
